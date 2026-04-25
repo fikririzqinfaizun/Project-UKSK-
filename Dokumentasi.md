@@ -1,6 +1,7 @@
 Panas :
-<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/7f924533-4409-4ef4-8390-1eed8f39f5c9" />
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/9160e0f1-c498-49ab-843a-c51c0b1c7a5d" />
 Normal :
-<img width="1918" height="927" alt="image" src="https://github.com/user-attachments/assets/8cdc4619-cd34-4013-9f7d-5aa8a1a023f4" />
+<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/ec66b29d-297b-4b2b-be72-67627d0ea01f" />
 Lembab :
-<img width="1918" height="928" alt="image" src="https://github.com/user-attachments/assets/3f72f2e7-502d-4af6-9dfb-8c60cf0c9258" />
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/4ad08772-0792-4ba7-a8b8-d11434833d5f" />
+
